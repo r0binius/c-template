@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.20)
-project(hello_c C)
+project(learning C)
 
-add_executable(hello main.c)
+add_executable(main main.c)
